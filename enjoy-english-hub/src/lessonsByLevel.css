@@ -1,0 +1,29 @@
+
+  .headerInicio{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+  }
+  a{
+    text-decoration: none;
+  }
+  .buttonsLevel{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+    padding: 100px;     
+  }
+  .A1, .A2, .B1, .B2, .C1, .C2{
+      height: 50px;
+      width: 50px;
+    border-radius: 100%;
+  }
+  footer{
+      display: flex;
+      justify-content: end;
+      align-items: flex-end;
+  }
+  .engageLevel{
+      height: 50px;
+  }

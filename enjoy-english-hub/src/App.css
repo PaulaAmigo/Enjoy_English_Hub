@@ -1,0 +1,50 @@
+
+* {
+  margin: 0px;
+  background-color: #ffffff;
+  color: #43494d;
+  
+}
+.modal{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: #43494d;
+}
+.logoLetras{
+  height: 80px;
+}
+.logo{
+  height: 150px;
+
+}
+
+a{
+  text-decoration: none;
+}
+.buttonInicio{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+.buttonLevel{
+  border-color: #ffffff;
+  border-style: none;
+}
+.teacher, .learner{
+  height: 300px;
+}
+.expand{
+  height: 100px;
+}
+.start{
+  height: 90px;
+}
+.engage{
+  height: 90px;
+}
+footer{
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
